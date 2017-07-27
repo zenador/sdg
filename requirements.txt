@@ -1,0 +1,9 @@
+wbdata
+six
+numpy
+scipy
+pandas
+plotly
+matplotlib
+scikit-learn
+lsanomaly
